@@ -1,0 +1,2 @@
+content tabremovefileoperations chrome/content/
+overlay chrome://komodo/content/komodo.xul chrome://tabremovefileoperations/content/tabremovefileoperations.xul

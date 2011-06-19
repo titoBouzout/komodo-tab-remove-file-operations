@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  	
+	<!-- tab context menu -->
+  
+	  <menupopup id="tabContextMenu">
+		  
+  		  <menuitem hidden="true" id="morekomodo-copyFullPath"/>
+  		  <menuitem hidden="true" id="morekomodo-copyFileName"/>
+  		  <menuitem hidden="true" id="morekomodo-copyDirectoryPath"/>
+  		  <menuitem hidden="true" id="tabContextMenu_morekomodo_separator_1"/>
+  		  <menuitem hidden="true" id="tabContextMenu_morekomodo_separator2"/>
+  		  <menuitem hidden="true" id="morekomodo-rename"/>
+  		  <menuitem hidden="true" id="morekomodo-delete"/>
+  		  <menuitem hidden="true" id="morekomodo-move"/>
+  		  <menuitem hidden="true" id="morekomodo-makebackup"/>
+		  
+	  </menupopup>
+</overlay>
