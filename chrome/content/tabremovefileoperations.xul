@@ -14,6 +14,7 @@
   		  <menuitem hidden="true" id="morekomodo-delete"/>
   		  <menuitem hidden="true" id="morekomodo-move"/>
   		  <menuitem hidden="true" id="morekomodo-makebackup"/>
-		  
+  		  <menuitem hidden="true" id="tabContextMenu_separator_2"/>
+  		  <menuitem hidden="true" id="menu_refreshStatus3"/>
 	  </menupopup>
 </overlay>
